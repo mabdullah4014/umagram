@@ -1,0 +1,200 @@
+{
+  "questionnaire_output": [
+    {
+      "score": 10,
+      "symbol": "陽気なミツバチ"
+    },
+    {
+      "score": 11,
+      "symbol": "静かなコアラ"
+    },
+    {
+      "score": 12,
+      "symbol": "遊び好きなうさぎ"
+    },
+    {
+      "score": 13,
+      "symbol": "自由なモモンガ"
+    },
+    {
+      "score": 14,
+      "symbol": "生意気なアイアイ"
+    },
+    {
+      "score": 15,
+      "symbol": "直進するシロサイ"
+    },
+    {
+      "score": 16,
+      "symbol": "可愛がられるモルモット"
+    },
+    {
+      "score": 17,
+      "symbol": "強いパンダ"
+    },
+    {
+      "score": 18,
+      "symbol": "素速いチータ"
+    },
+    {
+      "score": 19,
+      "symbol": "王者のオオカミ"
+    },
+    {
+      "score": 20,
+      "symbol": "貪欲なグリズリー"
+    }
+  ],
+  "questions": [
+    {
+      "statement": "ステーキと寿司のどちらがたべたいですか",
+      "answers": [
+        {
+          "statement": "ステーキ",
+          "points": 2,
+          "type": "Y"
+        },
+        {
+          "statement": "寿司",
+          "points": 1,
+          "type": "N"
+        }
+      ]
+    },
+    {
+      "statement": "休みの日には読書とドライブのどちらがしたいですか",
+      "answers": [
+        {
+          "statement": "読書",
+          "points": 2,
+          "type": "Y"
+        },
+        {
+          "statement": "ドライブ",
+          "points": 1,
+          "type": "N"
+        }
+      ]
+    },
+    {
+      "statement": "酒のつまみはどちらが好みですか",
+      "answers": [
+        {
+          "statement": "トロの刺身",
+          "points": 2,
+          "type": "Y"
+        },
+        {
+          "statement": "枝豆",
+          "points": 1,
+          "type": "N"
+        }
+      ]
+    },
+    {
+      "statement": "将来成れるとしたらどちらになりたいですか",
+      "answers": [
+        {
+          "statement": "大富豪",
+          "points": 2,
+          "type": "Y"
+        },
+        {
+          "statement": "ノーベル賞受賞者",
+          "points": 1,
+          "type": "N"
+        }
+      ]
+    },
+    {
+      "statement": "知り合いを作るとしたらどちらがいいですか",
+      "answers": [
+        {
+          "statement": "親友２人",
+          "points": 2,
+          "type": "Y"
+        },
+        {
+          "statement": "恋人２人",
+          "points": 1,
+          "type": "N"
+        }
+      ]
+    },
+    {
+      "statement": "どちらのスポーツが好きですか",
+      "answers": [
+        {
+          "statement": "テニス",
+          "points": 2,
+          "type": "Y"
+        },
+        {
+          "statement": "ラグビー",
+          "points": 1,
+          "type": "N"
+        }
+      ]
+    },
+    {
+      "statement": "どちらの映画が見たいですか",
+      "answers": [
+        {
+          "statement": "しんみり恋愛",
+          "points": 2,
+          "type": "Y"
+        },
+        {
+          "statement": "冒険活劇",
+          "points": 1,
+          "type": "N"
+        }
+      ]
+    },
+    {
+      "statement": "食事の時どちらを先に食べますか",
+      "answers": [
+        {
+          "statement": "カキフライ",
+          "points": 2,
+          "type": "Y"
+        },
+        {
+          "statement": "野菜サラダ",
+          "points": 1,
+          "type": "N"
+        }
+      ]
+    },
+    {
+      "statement": "冬の寒い日にどちらを着ますか",
+      "answers": [
+        {
+          "statement": "革ジャン",
+          "points": 2,
+          "type": "Y"
+        },
+        {
+          "statement": "カシミアのコート",
+          "points": 1,
+          "type": "N"
+        }
+      ]
+    },
+    {
+      "statement": "寝る時はふとんがいいですか、ベッドがいいですか",
+      "answers": [
+        {
+          "statement": "布団",
+          "points": 2,
+          "type": "Y"
+        },
+        {
+          "statement": "ベッド",
+          "points": 1,
+          "type": "N"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "questionnaire_output": [
+    {
+      "min": 0,
+      "max": 10,
+      "output": "自分の性格に対して否定的です。貴方の一致項目の性格を大切にしてそれを伸ばす工夫をしましょう。そのことが貴方の可能性を引き出し貴方を大きく成長させます。"
+    },
+    {
+      "min": 11,
+      "max": 15,
+      "output": "自分というものをしっかり見つめています。ただ自己肯定感が弱く自分の良さにまだまだ気がついていません。貴方の一致項目の性格を大切にしてそれを伸ばす工夫をしましょう。"
+    },
+    {
+      "min": 16,
+      "max": 20,
+      "output": "自分に対しても他人に対しても冷静に性格や人柄を見抜くタイプです。また自分の強みや長所もしっかりと把握できています。理想的な状況です。"
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "output": "自己肯定感が強く前のめりになりすぎてしまうくらいですが、すべてにおいてしっかりとした肯定感と観察ができており自己管理も上手です。一致項目は貴方の長所であり魅力のポイントです。大事にしてください。"
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "output": "貴方は自分自身の性格が大好きです。それだけ貴方の性格には人を惹きつける魅力があります。しかしそのため自分勝手なことをしてしまう傾向があり注意が必要です。とても貴重な性格ですからこのまままっすぐに伸ばすべきでしょう。"
+    },
+    {
+      "min": 31,
+      "max": 150,
+      "output": "貴方の性格はこよなく自分を愛し前向きで、自分のしたことを後悔したりすることは滅多にありません。常に自分のすることに自信があり、結果にもきちんと責任を取ります。貴方の性格には魅力がたくさんありますから人もひきつけます。"
+    }
+  ],
+  "questionnaire": [
+    {
+      "statement": "明るい"
+    },
+    {
+      "statement": "楽しい"
+    },
+    {
+      "statement": "賑やか"
+    },
+    {
+      "statement": "おとなしい"
+    },
+    {
+      "statement": "おしゃべリ"
+    },
+    {
+      "statement": "暗い"
+    },
+    {
+      "statement": "弱い"
+    },
+    {
+      "statement": "粘り強い"
+    },
+    {
+      "statement": "あっさり"
+    },
+    {
+      "statement": "批判的"
+    },
+    {
+      "statement": "細かい"
+    },
+    {
+      "statement": "大局的"
+    },
+    {
+      "statement": "自己中心的"
+    },
+    {
+      "statement": "几帳面"
+    },
+    {
+      "statement": "リーダー的"
+    },
+    {
+      "statement": "サブ・アシスト的"
+    },
+    {
+      "statement": "確実"
+    },
+    {
+      "statement": "スピーディー"
+    },
+    {
+      "statement": "独立的"
+    },
+    {
+      "statement": "協力的"
+    },
+    {
+      "statement": "にこやか"
+    },
+    {
+      "statement": "攻撃的"
+    },
+    {
+      "statement": "平和的"
+    },
+    {
+      "statement": "慎重"
+    },
+    {
+      "statement": "独創的"
+    },
+    {
+      "statement": "活発"
+    },
+    {
+      "statement": "優しい"
+    },
+    {
+      "statement": "決断力あり"
+    },
+    {
+      "statement": "面倒見がいい"
+    },
+    {
+      "statement": "幼い"
+    },
+    {
+      "statement": "冷静"
+    },
+    {
+      "statement": "強い"
+    },
+    {
+      "statement": "現実的"
+    },
+    {
+      "statement": "理想的"
+    },
+    {
+      "statement": "同情的"
+    },
+    {
+      "statement": "共感的"
+    },
+    {
+      "statement": "責任感強い"
+    },
+    {
+      "statement": "正義感あり"
+    },
+    {
+      "statement": "律儀（りちぎ）"
+    },
+    {
+      "statement": "理性的"
+    },
+    {
+      "statement": "感情的"
+    },
+    {
+      "statement": "理論的"
+    },
+    {
+      "statement": "天真爛漫"
+    },
+    {
+      "statement": "指導的"
+    },
+    {
+      "statement": "謙虚（けんきょ）"
+    },
+    {
+      "statement": "遠慮がち"
+    },
+    {
+      "statement": "我慢強い"
+    },
+    {
+      "statement": "慈悲深い"
+    },
+    {
+      "statement": "空想的"
+    },
+    {
+      "statement": "追求型"
+    },
+    {
+      "statement": "支配的"
+    },
+    {
+      "statement": "冷淡"
+    },
+    {
+      "statement": "親切"
+    },
+    {
+      "statement": "自分に甘い"
+    },
+    {
+      "statement": "不安定"
+    },
+    {
+      "statement": "ぶれない"
+    },
+    {
+      "statement": "合理的"
+    },
+    {
+      "statement": "短気"
+    },
+    {
+      "statement": "頑固"
+    },
+    {
+      "statement": "用心深い"
+    },
+    {
+      "statement": "積極的"
+    },
+    {
+      "statement": "消極的"
+    },
+    {
+      "statement": "常識的"
+    },
+    {
+      "statement": "直感的"
+    },
+    {
+      "statement": "気遣いする"
+    },
+    {
+      "statement": "マイペース"
+    },
+    {
+      "statement": "おせっかい"
+    },
+    {
+      "statement": "柔軟"
+    },
+    {
+      "statement": "無責任"
+    },
+    {
+      "statement": "自己中心"
+    },
+    {
+      "statement": "犠牲的"
+    },
+    {
+      "statement": "好奇心強い"
+    },
+    {
+      "statement": "孤独"
+    },
+    {
+      "statement": "強気"
+    },
+    {
+      "statement": "弱気"
+    },
+    {
+      "statement": "自由"
+    },
+    {
+      "statement": "のびのび"
+    },
+    {
+      "statement": "堅い"
+    },
+    {
+      "statement": "外交的"
+    },
+    {
+      "statement": "社交的"
+    },
+    {
+      "statement": "情熱的"
+    },
+    {
+      "statement": "分析的"
+    },
+    {
+      "statement": "総合的"
+    },
+    {
+      "statement": "倹約的"
+    },
+    {
+      "statement": "浪費的"
+    },
+    {
+      "statement": "せっかち"
+    },
+    {
+      "statement": "集中力あり"
+    },
+    {
+      "statement": "感動的"
+    },
+    {
+      "statement": "自信家"
+    },
+    {
+      "statement": "熱心"
+    },
+    {
+      "statement": "空気読まない"
+    },
+    {
+      "statement": "のんき"
+    },
+    {
+      "statement": "真面目"
+    },
+    {
+      "statement": "ロマンティスト"
+    },
+    {
+      "statement": "従順"
+    },
+    {
+      "statement": "神経質"
+    },
+    {
+      "statement": "面白い"
+    },
+    {
+      "statement": "行動派"
+    },
+    {
+      "statement": "信念がある"
+    },
+    {
+      "statement": "前向き"
+    },
+    {
+      "statement": "切り替えが早い"
+    },
+    {
+      "statement": "おおらか"
+    },
+    {
+      "statement": "他力本願"
+    },
+    {
+      "statement": "自己主張型"
+    },
+    {
+      "statement": "甘ったれ"
+    },
+    {
+      "statement": "世話好き"
+    },
+    {
+      "statement": "冷やか"
+    },
+    {
+      "statement": "クール"
+    },
+    {
+      "statement": "よく笑う"
+    },
+    {
+      "statement": "よく泣く"
+    },
+    {
+      "statement": "茶目っ気がある"
+    },
+    {
+      "statement": "計算早い"
+    },
+    {
+      "statement": "細かいことを気にしない"
+    },
+    {
+      "statement": "くよくよする"
+    },
+    {
+      "statement": "口うるさい"
+    },
+    {
+      "statement": "朗らか"
+    },
+    {
+      "statement": "努力家"
+    },
+    {
+      "statement": "さわやか"
+    },
+    {
+      "statement": "豪快"
+    },
+    {
+      "statement": "かしこい"
+    },
+    {
+      "statement": "情深い"
+    },
+    {
+      "statement": "親分肌"
+    },
+    {
+      "statement": "軽薄"
+    },
+    {
+      "statement": "重厚"
+    }
+  ]
+}

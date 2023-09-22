@@ -1,0 +1,851 @@
+{
+  "questionnaire_output": [
+    {
+      "min": 0,
+      "max": 20,
+      "symbol": "モテることに消極的になっています。いろいろな面で積極的に動くことか大事、自分の強みに気づきこれを積極的に生かすと良いでしょう。まだまだあなたの特徴を生かしきれていません。"
+    },
+    {
+      "min": 21,
+      "max": 40,
+      "symbol": "特定の人にモテる要素有り。ややマニアックに貴方を理解し好きになる人が多いようです。特にあなたと対照的な性格の人に好かれる傾向があります。さらにこの個性を前面に押し出すべきです。"
+    },
+    {
+      "min": 41,
+      "max": 60,
+      "symbol": "多くの人にモテる要素有り。普通によくモテるタイプで好感度が高く人気もあります。幅広く多くの人に好かれるタイプです。あなたにはそれだけの魅力がありますからこの個性を自信を持って武器にすべきです。"
+    },
+    {
+      "min": 61,
+      "max": 80,
+      "symbol": "ほとんどの人にモテる要素有り。貴方の接し方によってモテ度が変わります。とにかくモテるタイプであなたの個性が人を惹きつけやすいのです。そのためどこにいってもモテて困るはずです。ただあなたの気難しさが少しブレーキになっています。"
+    },
+    {
+      "min": 81,
+      "max": 200,
+      "symbol": "誰にでもモテる要素がとても多い。生まれ持ってモテるタイプ。モテ方は普通ではなく、貴方の振る舞い方一つで大きく変わりますが超人気者にもなれるモテ度の高い個性です。"
+    }
+  ],
+  "questionnaire": [
+    {
+      "classification": "厳格さ・責任感・まじめさ・誠実さ",
+      "question_output": [
+        {
+          "min": 0,
+          "max": 6,
+          "symbol": ""
+        },
+        {
+          "min": 7,
+          "max": 8,
+          "symbol": "○"
+        },
+        {
+          "min": 9,
+          "max": 12,
+          "symbol": "◎"
+        }
+      ],
+      "questions": [
+        {
+          "statement": "時間厳守を実行しています。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "人との約束は必ず守ります。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "不正は許すことができません。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classification": "優しさ・親切さ・指導力・面倒見の良さ",
+      "question_output": [
+        {
+          "min": 0,
+          "max": 6,
+          "symbol": ""
+        },
+        {
+          "min": 7,
+          "max": 8,
+          "symbol": "○"
+        },
+        {
+          "min": 9,
+          "max": 12,
+          "symbol": "◎"
+        }
+      ],
+      "questions": [
+        {
+          "statement": "人を褒めるのが得意です。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "挨拶は自分からきちんとします。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "弱者を見ると助けます。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classification": "理性的・常識的・理論的・冷静沈着さ",
+      "question_output": [
+        {
+          "min": 0,
+          "max": 6,
+          "symbol": ""
+        },
+        {
+          "min": 7,
+          "max": 8,
+          "symbol": "○"
+        },
+        {
+          "min": 9,
+          "max": 12,
+          "symbol": "◎"
+        }
+      ],
+      "questions": [
+        {
+          "statement": "原因を究明するのが好きです。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "わからないことは質問します。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "感情より理性が優先します。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classification": "創造的・天真爛漫・楽しさ・周りを幸せにする力",
+      "question_output": [
+        {
+          "min": 0,
+          "max": 6,
+          "symbol": ""
+        },
+        {
+          "min": 7,
+          "max": 8,
+          "symbol": "○"
+        },
+        {
+          "min": 9,
+          "max": 12,
+          "symbol": "◎"
+        }
+      ],
+      "questions": [
+        {
+          "statement": "幼く子供っぽい所があります。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "将来の夢がいくつもあります。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "趣味がいろいろ多い方です。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classification": "謙虚・我慢強さ・用心深さ・人をよく観察して空気を読む",
+      "question_output": [
+        {
+          "min": 0,
+          "max": 6,
+          "symbol": ""
+        },
+        {
+          "min": 7,
+          "max": 8,
+          "symbol": "○"
+        },
+        {
+          "min": 9,
+          "max": 12,
+          "symbol": "◎"
+        }
+      ],
+      "questions": [
+        {
+          "statement": "人見知りのほうです。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "周りの人によく気を使います。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "出しゃばらずについ遠慮します。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classification": "切り替えの早さ・精神の強さ・競争力・負けん気",
+      "question_output": [
+        {
+          "min": 0,
+          "max": 6,
+          "symbol": ""
+        },
+        {
+          "min": 7,
+          "max": 8,
+          "symbol": "○"
+        },
+        {
+          "min": 9,
+          "max": 12,
+          "symbol": "◎"
+        }
+      ],
+      "questions": [
+        {
+          "statement": "競争するとつい本気になります。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "ゲームで負けると悔しくなります。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "氣分転換が上手い方です。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classification": "勇気・チャレンジ精神・意欲的・好奇心",
+      "question_output": [
+        {
+          "min": 0,
+          "max": 6,
+          "symbol": ""
+        },
+        {
+          "min": 7,
+          "max": 8,
+          "symbol": "○"
+        },
+        {
+          "min": 9,
+          "max": 12,
+          "symbol": "◎"
+        }
+      ],
+      "questions": [
+        {
+          "statement": "未知の物に好奇心があります。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "損をしてもいいから挑戦します。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "何事にもやる気を出す方です。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classification": "可愛らしさ・素直さ・けなげさ・従順さ",
+      "question_output": [
+        {
+          "min": 0,
+          "max": 6,
+          "symbol": ""
+        },
+        {
+          "min": 7,
+          "max": 8,
+          "symbol": "○"
+        },
+        {
+          "min": 9,
+          "max": 12,
+          "symbol": "◎"
+        }
+      ],
+      "questions": [
+        {
+          "statement": "人の意見を積極的に聞きます。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "人を手伝うことが好きです。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "人からよく可愛いがられます。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classification": "異性好き・異性に対する度胸・異性扱い",
+      "question_output": [
+        {
+          "min": 0,
+          "max": 6,
+          "symbol": ""
+        },
+        {
+          "min": 7,
+          "max": 8,
+          "symbol": "○"
+        },
+        {
+          "min": 9,
+          "max": 12,
+          "symbol": "◎"
+        }
+      ],
+      "questions": [
+        {
+          "statement": "異性に対する興味が強いです。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "異性と気楽に話せます。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "日常でよく異性と接します。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classification": "バランスが良い・かたよらない・ほどほど",
+      "question_output": [
+        {
+          "min": 0,
+          "max": 6,
+          "symbol": ""
+        },
+        {
+          "min": 7,
+          "max": 8,
+          "symbol": "○"
+        },
+        {
+          "min": 9,
+          "max": 12,
+          "symbol": "◎"
+        }
+      ],
+      "questions": [
+        {
+          "statement": "いろんな事が同時にできます。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "一つの事に没頭できません。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "statement": "専門より全体を見る方です。",
+          "answers": [
+            {
+              "statement": "はい",
+              "points": 4,
+              "type": "Y"
+            },
+            {
+              "statement": "どちらでもない",
+              "points": 2,
+              "type": "-"
+            },
+            {
+              "statement": "いいえ",
+              "points": 1,
+              "type": "N"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

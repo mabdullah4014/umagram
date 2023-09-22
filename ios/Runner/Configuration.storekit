@@ -1,0 +1,69 @@
+{
+  "identifier" : "CCFCE622",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "200",
+      "familyShareable" : false,
+      "internalID" : "D737EFD3",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "my_non_consumable",
+      "referenceName" : "my_non_consumable",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "084AF588",
+      "localizations" : [
+
+      ],
+      "name" : "My group",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "207AED30",
+          "introductoryOffer" : {
+            "displayPrice" : "0.99",
+            "internalID" : "CFC4BF9A",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "payAsYouGo",
+            "subscriptionPeriod" : "P1M"
+          },
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "paid_renew",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Umagram",
+          "subscriptionGroupID" : "084AF588",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}

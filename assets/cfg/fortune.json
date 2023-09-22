@@ -1,0 +1,159 @@
+{
+  "questionnaire_output": [
+    {
+      "min": 0,
+      "max": 0,
+      "symbol": "末吉",
+      "comments": "本来強運な貴方ですが現在は運気が停滞しています。"
+    },
+    {
+      "min": 1,
+      "max": 2,
+      "symbol": "吉",
+      "comments": "強運の貴方も今は運気にやや陰りがあります。休息中です。"
+    },
+    {
+      "min": 3,
+      "max": 4,
+      "symbol": "小吉",
+      "comments": "陽の気と運に後押しされ将来が明るく見通せています。"
+    },
+    {
+      "min": 5,
+      "max": 6,
+      "symbol": "中吉",
+      "comments": "勘がさえています。強運とともに未来を切り開けます。"
+    },
+    {
+      "min": 7,
+      "max": 8,
+      "symbol": "大吉",
+      "comments": "持って生まれた強運で向かうところ敵なし状態です。"
+    },
+    {
+      "min": 9,
+      "max": 10,
+      "symbol": "大大吉",
+      "comments": "この上ない強運の持ち主で強い運気に守られています。"
+    }
+  ],
+  "questions": [
+    {
+      "original_answer": "Blue",
+      "answers": [
+        {
+          "statement": "Blue",
+          "type": "Y"
+        },
+        {
+          "statement": "Red",
+          "type": "N"
+        }
+      ]
+    },
+    {
+      "original_answer": "Red",
+      "answers": [
+        {
+          "statement": "Blue",
+          "type": "Y"
+        },
+        {
+          "statement": "Red",
+          "type": "N"
+        }
+      ]
+    },
+    {
+      "original_answer": "Red",
+      "answers": [
+        {
+          "statement": "Blue",
+          "type": "Y"
+        },
+        {
+          "statement": "Red",
+          "type": "N"
+        }
+      ]
+    },
+    {
+      "original_answer": "Blue",
+      "answers": [
+        {
+          "statement": "Blue",
+          "type": "Y"
+        },
+        {
+          "statement": "Red",
+          "type": "N"
+        }
+      ]
+    },
+    {
+      "original_answer": "Red",
+      "answers": [
+        {
+          "statement": "Blue",
+          "type": "Y"
+        },
+        {
+          "statement": "Red",
+          "type": "N"
+        }
+      ]
+    },
+    {
+      "original_answer": "Blue",
+      "answers": [
+        {
+          "statement": "Blue",
+          "type": "Y"
+        },
+        {
+          "statement": "Red",
+          "type": "N"
+        }
+      ]
+    },
+    {
+      "original_answer": "Blue",
+      "answers": [
+        {
+          "statement": "Blue",
+          "type": "Y"
+        },
+        {
+          "statement": "Red",
+          "type": "N"
+        }
+      ]
+    },
+    {
+      "original_answer": "Blue",
+      "answers": [
+        {
+          "statement": "Blue",
+          "type": "Y"
+        },
+        {
+          "statement": "Red",
+          "type": "N"
+        }
+      ]
+    },
+    {
+      "original_answer": "Red",
+      "answers": [
+        {
+          "statement": "Blue",
+          "type": "Y"
+        },
+        {
+          "statement": "Red",
+          "type": "N"
+        }
+      ]
+    }
+  ]
+}
